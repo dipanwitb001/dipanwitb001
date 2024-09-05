@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/@dipanwitabiswa" target="blank"><img src="https://img.shields.io/twitter/follow/@dipanwitabiswa?logo=twitter&style=for-the-badge" alt="@dipanwitabiswa" /></a> </p>
 
-- 🔭 I’m currently working on **Block project**
+- 🔭 I’m currently working on **Blockchain project**
 
 - 🌱 I’m currently learning **aolidity**
 
