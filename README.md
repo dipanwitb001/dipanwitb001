@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Blockchain project**
 
-- 🌱 I’m currently learning **aolidity**
+- 🌱 I’m currently learning **solidity**
 
 - 💬 Ask me about **Web Development and Python**
 
